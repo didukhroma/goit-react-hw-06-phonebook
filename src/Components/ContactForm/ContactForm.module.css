@@ -1,0 +1,6 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  outline: 1px solid black;
+  padding: 20px;
+}
